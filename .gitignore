@@ -1,0 +1,15 @@
+# Ignore virtual environments
+
+venv/
+
+# Ignore Python cache
+
+__pycache__/
+
+# Ignore environment files
+
+.env
+
+# Never commit secrets
+
+*.env
