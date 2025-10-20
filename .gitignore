@@ -13,3 +13,7 @@ __pycache__/
 # Never commit secrets
 
 *.env
+
+# Ignore 05_ignore file
+
+scripts/ignore.sql
