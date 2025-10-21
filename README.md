@@ -6,6 +6,10 @@ This is a small learning project for practicing basic SQL and Python scripts
 - Run SQL scripts for analysis
 - Query the database using Python
 - Keep credentials out of source code using environment variables
+- Finding null or empty product names
+- Triming whitespace
+- Standardizing data
+- Pandas transformations
 
 sql-python-practice/
 ├── scripts/ # SQL DDL + DML + queries

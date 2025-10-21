@@ -1,0 +1,5 @@
+product_name,total_revenue,total_units_sold,average_price
+Laptop,800.0,1,800.0
+Monitor,480.0,4,120.0
+Keyboard,175.0,7,25.0
+Mouse,45.0,3,15.0
